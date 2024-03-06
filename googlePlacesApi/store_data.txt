@@ -1,0 +1,1061 @@
+{
+  "html_attributions": [],
+  "next_page_token": "AZose0n_adCLpmsUvv-KYyMIR5hFzkFdDknKCmVIYzI7rul5B7vDw29G-1V0myNogNZEzO3OGQ_2XrFhsSJyNZm-ItHFX7vHMyEtrOutPfB_jOepuhnzy5itG9gsETblaiW5SUinGMvnHqwarFtNhTEyklCcOrWWlNhPHw9Y7HK4rKHYqpMpQN7JF4a_u3Dr4Xa7_rFAMQkaYmDBBTJYd6QwJ7GMJIMCA2LexMCwYW5EX9tPNKUpLR6jqDFhh-n96zSDKvJmg3uUyYe3HJK127mj8jlBBzAR7ToEQn65KhroiVpIrB_iL5o5-x_ktmd_Vd6FbgIXnOoJvqO_RREBFaa0ew4NcCM2u4B-QVt07c8rmco6hn3iv0rM1aoaX0IMA6dA7QuIyIfse3atX7KsUCiBsg05pVLBx-DwgktfCuEJHD39zDu9f3-OWsM",
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.139322,
+          "lng": 120.6697405
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.14064662989272,
+            "lng": 120.6711160798927
+          },
+          "southwest": {
+            "lat": 24.13794697010728,
+            "lng": 120.6684164201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Daily112日日好食.歐法料理",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118240893615642410743\">A Google User</a>"
+          ],
+          "photo_reference": "AZose0kXCZjWsT--TLO1N9drJQfHzmRgVTtNwzsOpSNKhb30F8LO6rEIvNwEF34DjoaKIROCY-x2Tv2T8fE9hfqgz847lH7X6kqqF02wwgr_6QANLSmDx2kgUg9F3ML6Fy5edAMVW4Xo7BNZtedSwX9piPtHuXVel5BSP9oXzZ2AAXBdOS36",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJIdhn2gs9aTQR3BEkoUq-pY0",
+      "plus_code": {
+        "compound_code": "4MQ9+QV West District, Taichung City",
+        "global_code": "7QP24MQ9+QV"
+      },
+      "price_level": 2,
+      "rating": 4.6,
+      "reference": "ChIJIdhn2gs9aTQR3BEkoUq-pY0",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 573,
+      "vicinity": "No. 112號, Section 2, Liuchuan W Rd, West District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.1474012,
+          "lng": 120.669069
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.14876017989272,
+            "lng": 120.6704207798928
+          },
+          "southwest": {
+            "lat": 24.14606052010728,
+            "lng": 120.6677211201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "台中√老屋餐廳",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103914939927070686182\">龍麒 May</a>"
+          ],
+          "photo_reference": "AZose0lXZg3OI1u788Ar95P5WAX7NkbdaLHNV0MyE83M3x9TxVnS3XX6JLNPTMjFCLmJ3d8B_adSlOK-NXUtPYECHUI-y86IQ4-WgBlfizS9soZOampWYcSTorKD_vpYnaGVN7DFuYBF3rTBHQI0zw578nMUxRv8zwUkK3RwqL1zoO-L-bwe",
+          "width": 5504
+        }
+      ],
+      "place_id": "ChIJzdShU3Q9aTQRDR9vBgimy_Y",
+      "plus_code": {
+        "compound_code": "4MW9+XJ West District, Taichung City",
+        "global_code": "7QP24MW9+XJ"
+      },
+      "rating": 4.4,
+      "reference": "ChIJzdShU3Q9aTQRDR9vBgimy_Y",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 19,
+      "vicinity": "No. 6號, Lane 213, Minquan Rd, West District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.1398509,
+          "lng": 120.6731789
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.14119472989272,
+            "lng": 120.6745371798927
+          },
+          "southwest": {
+            "lat": 24.13849507010728,
+            "lng": 120.6718375201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Andy’s kitchen",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102979463045581804300\">Chao Chin Huang</a>"
+          ],
+          "photo_reference": "AZose0nzgvZYdPEuMwgR_ySE9W4Q5r9TcnUwgFBjAfirp3orMQVCYHZklU8gH0x0rdUAjMMltmtkXlj6z1Z_mccBoydoj2Jo0-D5lhZ2V8lp1o4uCJJHc0l_UoCC-d-0XhWgVW689PSWgwITAmNnQ0U0a1kSyS2UJegH1FDRDZ1t5LlI3GCF",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJH0IB-ZU9aTQR56L-y8m_9KI",
+      "plus_code": {
+        "compound_code": "4MQF+X7 West District, Taichung City",
+        "global_code": "7QP24MQF+X7"
+      },
+      "rating": 4.7,
+      "reference": "ChIJH0IB-ZU9aTQR56L-y8m_9KI",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 197,
+      "vicinity": "No. 30號, Lequn St, West District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.1431996,
+          "lng": 120.6756298
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.14451567989272,
+            "lng": 120.6769378798927
+          },
+          "southwest": {
+            "lat": 24.14181602010728,
+            "lng": 120.6742382201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "MARIPOSA Bistro 蝴蝶餐廳",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102554466891528376014\">賴宛鈺</a>"
+          ],
+          "photo_reference": "AZose0mWqJUIGJ4OL3gcTwvICBBiFrJ4ehEiH2yhpmZLNFmEY7VeiXHGZwOsltNnHQe-933HK3rETiE8aAW4u5g20by5CCdzAm7o3t-gO6JxJ5bJXgYdmVZlhpU-48dHmpf7xDkwe0ZvHPc4RcKg1HIEsbNB6uJuAhsCWuMTJuh5w6gKUZgx",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJUXkAmm49aTQRTtrDh1HStLg",
+      "plus_code": {
+        "compound_code": "4MVG+77 Central District, Taichung City",
+        "global_code": "7QP24MVG+77"
+      },
+      "rating": 4.7,
+      "reference": "ChIJUXkAmm49aTQRTtrDh1HStLg",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 299,
+      "vicinity": "Central District, Minzu Rd, 206號B1"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.14173,
+          "lng": 120.6703169
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.14307817989272,
+            "lng": 120.6716693798927
+          },
+          "southwest": {
+            "lat": 24.14037852010728,
+            "lng": 120.6689697201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "After The Meal",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3025,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105782244696236735760\">HIGASHI HUANG</a>"
+          ],
+          "photo_reference": "AZose0njL72j9zaRZmrpJ0Z3B2D_karvS93ligIi07R3kDWlRTtwlzVhMFw6wn_SZG6gbck9A6xQZy32JuaDReCVqwUCg4fgXGDQz6liApMtEEC9EqLO34UaW7uS6dAL07oqWr1c3dMrhZUMRf9D0ySq8QZ5FWk771WDwFASkveACWWo2L46",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJiffoTF09aTQRCD6E8HhIDPk",
+      "plus_code": {
+        "compound_code": "4MRC+P4 West District, Taichung City",
+        "global_code": "7QP24MRC+P4"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJiffoTF09aTQRCD6E8HhIDPk",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1338,
+      "vicinity": "No. 12號, Wulang St, West District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.1472582,
+          "lng": 120.6728155
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.14856542989272,
+            "lng": 120.6742185298928
+          },
+          "southwest": {
+            "lat": 24.14586577010728,
+            "lng": 120.6715188701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Sha Wa Di Thai Restaurant",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105395996935467139521\">梅毅翔</a>"
+          ],
+          "photo_reference": "AZose0mXP5xbShHMjC6tWnNLHRyJg4KLn6H0bOykF6woCVnDtXKrfLciEzHrcpCXGoE1VNOO5fE9Twqq8bK2x5WASceLhIm0CiTLmC2B3tocWHgrEju0y4-IiIyHv7w4jol-xMTwun0Cxbx__sx48X8JpBVBHooOZCMESElZ8Svst0gruA9o",
+          "width": 4864
+        }
+      ],
+      "place_id": "ChIJeY8DlHM9aTQR4sj-QxN_En4",
+      "plus_code": {
+        "compound_code": "4MWF+W4 West District, Taichung City",
+        "global_code": "7QP24MWF+W4"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJeY8DlHM9aTQR4sj-QxN_En4",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 234,
+      "vicinity": "No. 133號, Wuquan Rd, West District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.1474013,
+          "lng": 120.6690691
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.14871582989272,
+            "lng": 120.6704206798928
+          },
+          "southwest": {
+            "lat": 24.14601617010728,
+            "lng": 120.6677210201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "本町道213巷 咖啡 茶。慢食。",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106801941865238597815\">Connie Lai</a>"
+          ],
+          "photo_reference": "AZose0koQmbeT8dN6edS6s5CUbO5MCG12CGlrRgwLXj7zOadBkHoBoQu8cjM_SEs_xRs23xLDcfwZL5ohK2_bVBY5ynL-PlFUVcGqnUc1ebPJi2tRzLQPq50eC5yRLO4tElFafwNiZE7OEbZUq8W0d4FawFjuM44Zn9tb91FHYy6x11dJXB3",
+          "width": 3968
+        }
+      ],
+      "place_id": "ChIJzdShU3Q9aTQR7VYfESWTRvI",
+      "plus_code": {
+        "compound_code": "4MW9+XJ West District, Taichung City",
+        "global_code": "7QP24MW9+XJ"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJzdShU3Q9aTQR7VYfESWTRvI",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 476,
+      "vicinity": "No. 6號, Lane 213, Minquan Rd, West District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.1397592,
+          "lng": 120.6744084
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.14115357989272,
+            "lng": 120.6756991798927
+          },
+          "southwest": {
+            "lat": 24.13845392010727,
+            "lng": 120.6729995201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "弄堂-江浙一味",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113078172934649077379\">林欣潔</a>"
+          ],
+          "photo_reference": "AZose0kvdBarAEvw_8Gmf3rVsqDPgw19erRdEcpphR8FmLy_hMkmS7mS2up6y3DXqov5nvNaoHd1GPQ4pLGdtJVy5QzulsRMimaj32DtbjjzOifPAHdePbX4HaHb3IzvT3RDVd4lWjQ1zfvhlLBduxtAmVMGIIOvGfrG2V42RXJOE_4mc9a-",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJV-XATQw9aTQRedbwV6dOvRw",
+      "plus_code": {
+        "compound_code": "4MQF+WQ West District, Taichung City",
+        "global_code": "7QP24MQF+WQ"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJV-XATQw9aTQRedbwV6dOvRw",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 295,
+      "vicinity": "No. 1號, Lane 77, Minsheng Rd, West District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.1402586,
+          "lng": 120.672869
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.14166112989272,
+            "lng": 120.6741958298927
+          },
+          "southwest": {
+            "lat": 24.13896147010728,
+            "lng": 120.6714961701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Asiino二驢餐酒館",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104390314214964101218\">張乃仁</a>"
+          ],
+          "photo_reference": "AZose0m2btDIiBhxpI6Og1yh_XWFu4MKvOpOH4zeTzA6apoBuPdX5V7vdwx1zNcoBIQo8fAacNkab-f6Nz06yWKlCKyuve4HplWVhXET1q5ESePM1zRZ4U00s14roIpzZAADQLJs4tIZ79t1ubnvOS-rGB8EZzmOMyOSGYLp0VjMA4ERCnh0",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJO5sDZgw9aTQRm3DOfgvlkpQ",
+      "plus_code": {
+        "compound_code": "4MRF+44 West District, Taichung City",
+        "global_code": "7QP24MRF+44"
+      },
+      "rating": 4.5,
+      "reference": "ChIJO5sDZgw9aTQRm3DOfgvlkpQ",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 660,
+      "vicinity": "No. 205號, Section 2, Liuchuan E Rd, West District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.139559,
+          "lng": 120.6699608
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.14094122989272,
+            "lng": 120.6713454798928
+          },
+          "southwest": {
+            "lat": 24.13824157010728,
+            "lng": 120.6686458201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "如意樓江浙料理",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111204314645120534398\">林諺群</a>"
+          ],
+          "photo_reference": "AZose0lp1eElEzUjo2uOn5xig3Cikxj3xKcnZCZplRbD12QDo-9bbCpo-tWB4PdPHpBO_UmLgSwkKW0g0wAGd0B6uipU1wDUwU6Kyxe6UkbHtbIdwe5JUSZ5fyJIH6Cgidk-YVbpxUT-haNryJfdhXZMZUrVs80W6PHL64qhOj8C4KbOBjpi",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ5V8q2ws9aTQRF_H3dRKyULk",
+      "plus_code": {
+        "compound_code": "4MQ9+RX West District, Taichung City",
+        "global_code": "7QP24MQ9+RX"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJ5V8q2ws9aTQRF_H3dRKyULk",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 808,
+      "vicinity": "No. 79號, Zizhi St, West District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.1465545,
+          "lng": 120.6675018
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.14798997989272,
+            "lng": 120.6688519798928
+          },
+          "southwest": {
+            "lat": 24.14529032010728,
+            "lng": 120.6661523201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "西西里義式餐酒館 Sicily Italian Bistro",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113194241076870643235\">fifi Lin</a>"
+          ],
+          "photo_reference": "AZose0mAOOI2j_GifQqVoHIlRMLH-k_CJGdBWQ17epCfl7Ssrb_iK8S1flJNNXuBTu5vvzKQ_aTTifPZXIS4QMjafXxM_OHQwjJgUTmoGJwfchEMfyOxR2VU8q1xO-2PaU1To36XrKNNtWwU1aVDq8Rc_LElA2yh5td8tSiavO-l9nxnrGlk",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJGWoGE3U9aTQR01YzIGrSSzI",
+      "plus_code": {
+        "compound_code": "4MW9+J2 West District, Taichung City",
+        "global_code": "7QP24MW9+J2"
+      },
+      "price_level": 2,
+      "rating": 4.7,
+      "reference": "ChIJGWoGE3U9aTQR01YzIGrSSzI",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 323,
+      "vicinity": "No. 27-5號, Section 1, Xiangshang Rd, West District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.1480775,
+          "lng": 120.6682402
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.14942707989272,
+            "lng": 120.6695883298928
+          },
+          "southwest": {
+            "lat": 24.14672742010728,
+            "lng": 120.6668886701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "馨苑小料理※西區店※台菜咖啡※米其林必比登",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113221391135788817630\">劉三國</a>"
+          ],
+          "photo_reference": "AZose0m9XaRPSgN82BX0sG7ony0D4QE27rp7SwXeqSFbiOUf7oj01bGHSx-UbQBw9NmPnKrbe4i6bysJY53UESDyCkpM9V4X8krriBHGJmTq9ngzdWnTVqxvf97Widh04JnnZuGLbM3Mxkr27Ht1sWrt7aVKkH4sjAxrxZimL3ht_nro29rz",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ5XBhggg9aTQRw_Ywe0gD8ac",
+      "plus_code": {
+        "compound_code": "4MX9+68 West District, Taichung City",
+        "global_code": "7QP24MX9+68"
+      },
+      "price_level": 2,
+      "rating": 4.7,
+      "reference": "ChIJ5XBhggg9aTQRw_Ywe0gD8ac",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3420,
+      "vicinity": "No. 106號, Minsheng N Rd, West District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.14224,
+          "lng": 120.6708627
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.14357877989272,
+            "lng": 120.6722300798927
+          },
+          "southwest": {
+            "lat": 24.14087912010728,
+            "lng": 120.6695304201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "小桃子廚房momo",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107569635391603834051\">Peter Hung</a>"
+          ],
+          "photo_reference": "AZose0kDN6Gk8GszqlVevwYk1ziqKeFWLdeOJfzq4sMKwveGZ6WE-MF4nyQScCwBqb8QsscXqUj8TqHrgfZTc20CbQMbmlnQhPf6LpWSPPCr2QiDNZq2F80bex9VSMYSgqPkf4US-O-i5FURtBTpAocFuDkwPc2XU342caFXKxtBCSMzo7-F",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJpfbGbgs9aTQRcNnvSocBidc",
+      "plus_code": {
+        "compound_code": "4MRC+V8 West District, Taichung City",
+        "global_code": "7QP24MRC+V8"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJpfbGbgs9aTQRcNnvSocBidc",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 247,
+      "vicinity": "No. 2-2號, Wulang St, West District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.1411133,
+          "lng": 120.6695099
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.14251622989272,
+            "lng": 120.6708001298927
+          },
+          "southwest": {
+            "lat": 24.13981657010728,
+            "lng": 120.6681004701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "萬月樓日式料理店",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106804849640441070159\">張惇喆</a>"
+          ],
+          "photo_reference": "AZose0m3U1nXYnc_KdsSzoYITWE2AK5EiPdEYCXCumWhUn7XOUSEqGgAc9hZnGzk5wwS-allpCUkrsiLua-31irCVH85Qef8_PYC3S_SIkjHFad1YcA47D4t8himZCEP8EbPhaqX8NQ3Ap2ndqUkSsnhAw3IWQPqLW649uHnMC54EcAZPwTL",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ3weeqAs9aTQR9n7rOPau20Y",
+      "plus_code": {
+        "compound_code": "4MR9+CR West District, Taichung City",
+        "global_code": "7QP24MR9+CR"
+      },
+      "price_level": 3,
+      "rating": 4.4,
+      "reference": "ChIJ3weeqAs9aTQR9n7rOPau20Y",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 404,
+      "vicinity": "No. 1號, Lane 95, Zili St, West District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.1422778,
+          "lng": 120.6773484
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.14366247989273,
+            "lng": 120.6786361798927
+          },
+          "southwest": {
+            "lat": 24.14096282010728,
+            "lng": 120.6759365201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "祥園川菜館",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 780,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108546310117396242897\">張玉麒</a>"
+          ],
+          "photo_reference": "AZose0lt10XVOUCHddr4kigKVNaOj_w-We9veD8A1mnNEXwDDAjSb5ZM1qdrBgnOvLkMmZsoN9XudgwUhVggOpjJSPzzIgTaAOFyJ2P4L5a34QyXSPVmBWWeexal5ie8E2vXPy3BmQguqHkA3FVFbT6SiNOi5rgyQYaqXABsU0PewQ_IKJx_",
+          "width": 1040
+        }
+      ],
+      "place_id": "ChIJF6IeVQ09aTQRMnHLomu2etI",
+      "plus_code": {
+        "compound_code": "4MRG+WW Central District, Taichung City",
+        "global_code": "7QP24MRG+WW"
+      },
+      "price_level": 2,
+      "rating": 4,
+      "reference": "ChIJF6IeVQ09aTQRMnHLomu2etI",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 347,
+      "vicinity": "No. 16號, Section 3, Liuchuan E Rd, Central District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.1458477,
+          "lng": 120.6710544
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.14715472989272,
+            "lng": 120.6723580298927
+          },
+          "southwest": {
+            "lat": 24.14445507010728,
+            "lng": 120.6696583701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "陸園上海菜",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101212173137972160720\">野熊氏</a>"
+          ],
+          "photo_reference": "AZose0maKDAhmwl3TVaK_-K0LbzkAQUF3pZoAnXwDjk_eCB611tkNcRC_Lst36phrldEzrM3jP68fTcL9jJtl_bJPBZyJGMS6ycclhLsf46PmUTHZPPBKhSoVYWwHfiBgV7u8_PtY7cTy7gymQRWXJ3z3389CxLH6qo-j_VultXdKcUjeVQV",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJqbdCkHQ9aTQRLC6pykx05EU",
+      "plus_code": {
+        "compound_code": "4MWC+8C West District, Taichung City",
+        "global_code": "7QP24MWC+8C"
+      },
+      "price_level": 2,
+      "rating": 3.9,
+      "reference": "ChIJqbdCkHQ9aTQRLC6pykx05EU",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1231,
+      "vicinity": "No. 248號, Minquan Rd, West District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.1401474,
+          "lng": 120.6676115
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.14155782989272,
+            "lng": 120.6690207798927
+          },
+          "southwest": {
+            "lat": 24.13885817010728,
+            "lng": 120.6663211201072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "大采廚房-國美店",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106760798585885003082\">大采廚房企業股份有限公司</a>"
+          ],
+          "photo_reference": "AZose0kM0TvOJsiM32FCxARlfzqtl95M2vSvlEJ-GMIdEcYRhyW8eXZpKKghiJNDd-2AnbzxgvcSartA7WZN1SYXfkolATm9CgPWuC7qgWGESWobUXrQbuD3ey-P8spFoHetgRTL66Tvt3QdS96q5kRZyhxEUoWqTBvqKDADR3zlaxrzQEX7",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJKTqVk6Y9aTQRcXNcUnUkO10",
+      "plus_code": {
+        "compound_code": "4MR9+32 West District, Taichung City",
+        "global_code": "7QP24MR9+32"
+      },
+      "price_level": 2,
+      "rating": 3.9,
+      "reference": "ChIJKTqVk6Y9aTQRcXNcUnUkO10",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 446,
+      "vicinity": "No. 247號, Linsen Rd, West District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.1480858,
+          "lng": 120.6680672
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.14943482989272,
+            "lng": 120.6694846298928
+          },
+          "southwest": {
+            "lat": 24.14673517010728,
+            "lng": 120.6667849701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "鮨 戎",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101949242820810978252\">A Google User</a>"
+          ],
+          "photo_reference": "AZose0kQMxD_xG8Bd59ZqEAODKXnclbyg1dDrQPRz_KHTVmrtGI6o4VcBaWeQPLfsg4lMXPEenByxj-4S82toT7-Q_7J5r7qv1LC_TsSrTDv_e6b3yCMkOwvm6t92AUHw7DDe8b4bEsSHIVN14_-bjrIEIKgst-sz6p0vIdLN5WnkWvxCLm0",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJFUq73qA9aTQRydJJ0ZlNt4k",
+      "plus_code": {
+        "compound_code": "4MX9+66 West District, Taichung City",
+        "global_code": "7QP24MX9+66"
+      },
+      "rating": 4.3,
+      "reference": "ChIJFUq73qA9aTQRydJJ0ZlNt4k",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 103,
+      "vicinity": "No. 107號, Minsheng N Rd, West District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.1398936,
+          "lng": 120.6667106
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.14127122989272,
+            "lng": 120.6680243798927
+          },
+          "southwest": {
+            "lat": 24.13857157010728,
+            "lng": 120.6653247201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "遊牧餐桌Nomadic Trattoria",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114388140162348788314\">L Ng</a>"
+          ],
+          "photo_reference": "AZose0m5yq4uYtb_K9tZ-7r5WTwat6RVfbooTEXwCNtXRd0NRCl7R2vcKV3N5_ZmIzkT1-EXdMUk7J2qP6SjX7a967lvMcY_dEiHz50EhLCHMD5X2y0vuWGkrFcmVIr1geShyG84huwkDHLIFJi7LXCqLGt_kFgJzKaLeTXw5KecUoBelpPp",
+          "width": 3072
+        }
+      ],
+      "place_id": "ChIJ0YDbHAo9aTQR-TQev9a1ZgU",
+      "plus_code": {
+        "compound_code": "4MQ8+XM West District, Taichung City",
+        "global_code": "7QP24MQ8+XM"
+      },
+      "price_level": 2,
+      "rating": 4.7,
+      "reference": "ChIJ0YDbHAo9aTQR-TQev9a1ZgU",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 544,
+      "vicinity": "No. 184號, Zhongqin St, West District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.1414202,
+          "lng": 120.6712139
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.14279827989272,
+            "lng": 120.6725407298927
+          },
+          "southwest": {
+            "lat": 24.14009862010728,
+            "lng": 120.6698410701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "小鮨食事（我們都是現場候位喔！）台中生魚片蛋糕/台中西區創意料理/生魚片丼飯/生魚片壽司",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1932,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113383574352429876168\">Elvis Li</a>"
+          ],
+          "photo_reference": "AZose0lxsZwaMZ1jlTVfd8Sb1kIXDjWoIyNime1QE7kJTTGCytEwsUJkjipjiPjDYb7c-P2IulF5oGwAFTjhu0G7hxUCCgbcXMMjS9-452bg6IwMUEUXK7868_gqxdWtsP3iXD_Shs25imMfS3ulJSCFIeO_9WpbiBT0n7-vhOoU6_7Gslhb",
+          "width": 2576
+        }
+      ],
+      "place_id": "ChIJHxf-nBs9aTQRPVMQ2rhXRS8",
+      "plus_code": {
+        "compound_code": "4MRC+HF West District, Taichung City",
+        "global_code": "7QP24MRC+HF"
+      },
+      "rating": 4.5,
+      "reference": "ChIJHxf-nBs9aTQRPVMQ2rhXRS8",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 819,
+      "vicinity": "No. 9-1號, Jinshan Rd, West District"
+    }
+  ],
+  "status": "OK"
+}

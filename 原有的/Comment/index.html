@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>留言版(試做)</title>
+  <!-- 
+    瀏覽器收到HTML響應內容後，就要開始從上到下依次解析，
+    當在解析過程中，如果發現:
+      link
+      script
+      img
+      iframe
+      video
+      audio
+    等带有 src 或者 href（link） 属性標籤（具有外鏈的资源）的时候，瀏覽器會自動對這些資源發起新的請求。
+   -->
+   <!-- 
+      注意: 在server中，文件中的路徑就不要去寫相對路徑了。
+      因為這個時候所有資源都是通過 url 來獲取的，
+      server僅開放了 /public 底下的資源所以請求路徑要寫成 /public/xxx
+      / 在這裡就是 url 根路徑的意思。
+      瀏覽器在真正發請求的時候會最终把 http://127.0.0.1:3000 拼上
+    -->
+  <link rel="stylesheet" href="/public/lib/bootstrap/dist/css/bootstrap.css">
+</head>
+
+<body>
+  <div class="header container">
+    <div class="page-header">
+      <h1>留言板 <small>(測試)</small></h1>
+      <a class="btn btn-success" href="/post">發表留言</a>
+    </div>
+  </div>
+  <div class="comments container">
+    <ul class="list-group">
+      {{each Comments}}
+      <li class="list-group-item">{{ $value.name }}說：{{ $value.message }} <span class="pull-right">{{ $value.dateTime }}</span></li>
+      {{/each}}
+    </ul>
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,32 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.game-board {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #1d1d1d;
+  border: 2px solid white;
+  padding: 10px;
+}
+
+.row {
+  display: flex;
+}
+
+.cell {
+  border: 1px solid white;
+}
+
+.snake {
+  background-color: #0aff00;
+}
+
+.food {
+  background-color: #ff073a;
+}

@@ -1,0 +1,49 @@
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 30px;
+  }
+  input[type='text'] {
+    width: 100%;
+    padding: 10px;
+    font-size: 22px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  input[type='file'] {
+    width: 100%;
+    margin-bottom: 10px;
+    font-size: 22px;
+  }
+  button[type='submit'] {
+    padding: 10px;
+    font-size: 22px;
+    border-radius: 5px;
+    border: none;
+    background-color: #4caf50;
+    color: #fff;
+    cursor: pointer;
+  }
+  button[type='submit']:hover {
+    background-color: #3e8e41;
+  }
+  .center {
+    display: flex;
+    justify-content: center;
+    
+    height: 100vh;
+  }
+  select {
+    margin-bottom: 10px;
+    font-size: 20px;
+  }
+  input[type='time'] {
+    margin-bottom: 10px;
+    font-size: 22px;
+  }
+  textarea {
+    width: 105%;
+    height: 140px;
+    font-size: 22px;
+    resize: none; /* 防止改變尺寸 */
+  }
