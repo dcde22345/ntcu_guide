@@ -26,14 +26,19 @@ Ensure you have the following installed:
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-repo/ntcu-guide.git
-   cd ntcu-guide
    ```
 2. Install dependencies:
    ```sh
+   cd ntcu-guide/client
+   npm install
+   cd ../server
    npm install
    ```
 3. Start the development server:
    ```sh
+   cd client
+   npm start
+   ce ../server
    npm start
    ```
    The application will be available at `http://localhost:3000/`.
